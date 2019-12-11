@@ -1,0 +1,55 @@
+﻿html { 
+  background: url(grey-background-for-site11.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#nagycim {
+	text-align: left;
+	color: #000080;
+	font-size: 300%;
+}
+#keret{
+	width: 950px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#fejlec{
+	width:60%;
+	float:right;
+	height:150px;
+}
+#fejleckep{
+	width:40%;
+	float:left;
+	height:150px;
+}
+#balmenu{
+	width: 30%;
+	float: left;
+}
+#tartalom{
+	width: 70%;
+	float: right;
+}
+#lablec{
+	height: 50px;
+	clear: both;
+	width: 100%;
+}
+table {
+    border-collapse: collapse;
+}
+th, td {
+    text-align: left;
+	border: 1px solid black;
+	padding: 8px;
+}
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+h1,h2, #nagycim {
+	font-family: 'Copperplate Gothic Light', sans-serif;
+}
